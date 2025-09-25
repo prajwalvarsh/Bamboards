@@ -1,0 +1,2042 @@
+[
+  {
+    "day": "",
+    "keyword": "veranstaltungen filter",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Filteroptionen zur schnellen Orientierung\nWegbeschreibung zu den einzelnen Orten\nFilterbar auch nach Barrierefreiheit \nStandortanzeige: „Wo bin ich?“\nWegbeschreibungen zu wichtigen Orten (z.",
+        "exact_sentence": "Filteroptionen zur schnellen Orientierung\nWegbeschreibung zu den einzelnen Orten\nFilterbar auch nach Barrierefreiheit \nStandortanzeige: „Wo bin ich?“\nWegbeschreibungen zu wichtigen Orten (z."
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Create a 'Filter' icon that can be clicked to reveal a dropdown menu with options for 'Barrierefreiheit' (Accessibility), 'Veranstaltungen' (Events), and other relevant filters, allowing citizens to quickly navigate the city's attractions and events."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Develop a comprehensive database of city events and attractions, including accessibility information, and integrate it into the city's mapping system, enabling citizens to filter and sort events by various criteria, including accessibility, location, and type."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "taxi kulturelle",
+    "roles": {
+      "citizen": {
+        "original_sentence": "auch separater Filter für städtische/politische Veranstaltungen)\nAnzeige von Veranstaltungsdetails und QR-Code zur Mitnahme und Ticketbuchungen auf Smartphone\nÖPNV-Fahrpläne & Mobilität\nAnzeige der nächsten Abfahrten\nFahrpläne für nahegelegene Haltestellen\nTaxi-Rufoption\nÖffentliche Toiletten & Infrastruktur\nDirekte Anzeige der nächstgelegenen Toiletten inkl.",
+        "exact_sentence": "auch separater Filter für städtische/politische Veranstaltungen)\nAnzeige von Veranstaltungsdetails und QR-Code zur Mitnahme und Ticketbuchungen auf Smartphone\nÖPNV-Fahrpläne & Mobilität\nAnzeige der nächsten Abfahrten\nFahrpläne für nahegelegene Haltestellen\nTaxi-Rufoption\nÖffentliche Toiletten & Infrastruktur\nDirekte Anzeige der nächstgelegenen Toiletten inkl."
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Integrate a 'Taxi Kulturelle' information panel into the existing event listing display, featuring a QR code that links to a dedicated webpage with cultural event information and ticketing options."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Develop a partnership with local taxi companies to offer a 'Taxi Kulturelle' service, providing discounted fares for cultural events and promoting the service through the existing event listing display."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "standortanzeige sehenswürdigkeiten",
+    "roles": {
+      "citizen": {
+        "original_sentence": "erste Entwicklungsphase)\nInteraktive Karte mit Standortanzeige",
+        "exact_sentence": "erste Entwicklungsphase)\nInteraktive Karte mit Standortanzeige"
+      },
+      "designer": {
+        "design_suggestion": "Offer a 'Nearby highlights' mode that cycles through curated points with short descriptions and images on the main screen."
+      },
+      "planner": {
+        "planning_suggestion": "Include offline map tiles for resilience and a lightweight update mechanism for low-bandwidth locations."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "tourismus information",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Interaktive & digitale Angebote\n„QR-Code, um sich einen Stadtplan mit typischen Routen (Wo geht's zum Bahnhof?) auf's Handy laden zu können.“\n„Infos zu touristischen Angeboten außerhalb der Öffnungszeiten - Stadtrundgang auf eigene Faust - Öffnungszeiten - wo gibt’s das beste Bier.“\n„Die Tourismus Information kann individuell Touren, zur Besichtigung veranschaulichen, wo die Sehenswürdigkeiten mit Verpflegung und Bildung verknüpft sind, und z.B.",
+        "exact_sentence": "Interaktive & digitale Angebote\n„QR-Code, um sich einen Stadtplan mit typischen Routen (Wo geht's zum Bahnhof?) auf's Handy laden zu können.“\n„Infos zu touristischen Angeboten außerhalb der Öffnungszeiten - Stadtrundgang auf eigene Faust - Öffnungszeiten - wo gibt’s das beste Bier.“\n„Die Tourismus Information kann individuell Touren, zur Besichtigung veranschaulichen, wo die Sehenswürdigkeiten mit Verpflegung und Bildung verknüpft sind, und z.B."
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Create an interactive kiosk or digital display near the city center that provides tourists with information on local attractions, events, and services, using QR codes and touchscreens to facilitate easy access."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Develop a mobile app that integrates tourist information, interactive city maps, and booking capabilities for guided tours, restaurants, and other services, allowing tourists to plan their itinerary and access information on-the-go."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "info bahnhof",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Tourist-Info",
+        "exact_sentence": "Tourist-Info"
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Create a prominent, easily accessible, and visually appealing Tourist-Info booth at the train station, incorporating digital screens and interactive displays to showcase local attractions and events."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Consider relocating the Tourist-Info booth to a more central and visible location within the train station, such as near the main concourse or information desk, to improve visibility and accessibility for arriving tourists."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "straßensperrungen wetter",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Straßensperrungen\nInformationen zu Parkhäusern",
+        "exact_sentence": "Straßensperrungen\nInformationen zu Parkhäusern"
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Implement a smart traffic management system that dynamically adjusts traffic light timings and road closures based on weather conditions, minimizing disruptions to commuters during heavy rainfall events."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Develop a comprehensive flood risk management plan that includes identifying and mitigating flood-prone areas, upgrading drainage infrastructure, and implementing temporary road closures and detours during extreme weather events."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "neuerscheinungen buchempfehlungen",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Buchempfehlungen",
+        "exact_sentence": "Buchempfehlungen"
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Create a vibrant public square with a unique, futuristic design that incorporates neon lights and interactive installations, reflecting the 'neuerscheinungen' (new phenomena) of the city's innovative spirit."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Establish a 'Buchempfehlungen' (Book Recommendations) district with a mix of independent bookstores, libraries, and co-working spaces, providing a hub for creatives and intellectuals to engage with each other and the community."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "ranking was",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Barrierefreiheitsangaben und Wegbeschreibung\nEbenso für Trinkwasserbrunnen",
+        "exact_sentence": "Barrierefreiheitsangaben und Wegbeschreibung\nEbenso für Trinkwasserbrunnen"
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Consider incorporating tactile signage and Braille labels at water fountains to provide clear and accessible information about water quality and accessibility."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Include ranking criteria for water fountains in the city's accessibility standards, ensuring that water fountains are evaluated based on factors such as wheelchair accessibility, audio descriptions, and tactile signage."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "unterhaltsames",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Wissenswertes und Unterhaltsames wie geschichtliche Informationen, Rätsel, Stadtquizzes\nvor allem auch touristisch interessant\nImmer spannend!",
+        "exact_sentence": "Wissenswertes und Unterhaltsames wie geschichtliche Informationen, Rätsel, Stadtquizzes\nvor allem auch touristisch interessant\nImmer spannend!"
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Create an interactive exhibit space with immersive storytelling elements, incorporating historical information, puzzles, and quizzes that cater to tourists, utilizing engaging visuals and multimedia displays."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Develop a city-wide \"Treasure Hunt\" program, where participants can solve a series of challenges and riddles that lead them to hidden gems and tourist attractions, promoting exploration and community engagement."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "barrierefreiheit",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Filteroptionen zur schnellen Orientierung\nWegbeschreibung zu den einzelnen Orten\nFilterbar auch nach Barrierefreiheit \nStandortanzeige: „Wo bin ich?“\nWegbeschreibungen zu wichtigen Orten (z.",
+        "exact_sentence": "Filteroptionen zur schnellen Orientierung\nWegbeschreibung zu den einzelnen Orten\nFilterbar auch nach Barrierefreiheit \nStandortanzeige: „Wo bin ich?“\nWegbeschreibungen zu wichtigen Orten (z."
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Implement a color-coded system on the map to visually distinguish accessible routes from non-accessible ones, using green for accessible paths and red for non-accessible ones."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Develop a comprehensive accessibility audit of the city's public spaces, including transportation hubs, parks, and public buildings, to identify areas that require improvement and prioritize them in the planning process."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "weiterführende gamification",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Priorität 3: Community & Interaktivität (Optional, Zukunftsausbau)\nBürgerbeteiligung & Feedback\nIntegration Bamberg-Melder für Defekte oder Verbesserungsvorschläge\nUmfragen zur Bürgerbeteiligung\nWeiterführende Gamification & Edutainment-Module\nInteraktive Entdeckungstouren\nAvatar oder Figur, die einen begrüßt und durch das Board führt \nRanking: Welche Funktionen braucht es allgemein:",
+        "exact_sentence": "Priorität 3: Community & Interaktivität (Optional, Zukunftsausbau)\nBürgerbeteiligung & Feedback\nIntegration Bamberg-Melder für Defekte oder Verbesserungsvorschläge\nUmfragen zur Bürgerbeteiligung\nWeiterführende Gamification & Edutainment-Module\nInteraktive Entdeckungstouren\nAvatar oder Figur, die einen begrüßt und durch das Board führt \nRanking: Welche Funktionen braucht es allgemein:"
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Add bite-sized gamified interactions (quiz tiles) that reward discovery and repeat visits."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Define success metrics for engagement and pilot a gamified module at one location."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "priorisiert umgesetzt",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Diese sollten priorisiert umgesetzt werden.",
+        "exact_sentence": "Diese sollten priorisiert umgesetzt werden."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "maxplatz rad",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Maxplatz)\nRad- und Wanderwege\nVeranstaltungshinweise",
+        "exact_sentence": "Maxplatz)\nRad- und Wanderwege\nVeranstaltungshinweise"
+      },
+      "designer": {
+        "design_suggestion": "Provide a filterable map of events by time window (now/this week/this weekend) and a 'nearby' toggle that prefers local venues."
+      },
+      "planner": {
+        "planning_suggestion": "Create a lightweight ticketing integration or deep-link system and track conversion metrics (QR scans, calendar adds)."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "qr code",
+    "roles": {
+      "citizen": {
+        "original_sentence": "QR Code?",
+        "exact_sentence": "QR Code?"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "umgebung bin",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Filteroptionen zur schnellen Orientierung\nWegbeschreibung zu den einzelnen Orten\nFilterbar auch nach Barrierefreiheit \nStandortanzeige: „Wo bin ich?“\nWegbeschreibungen zu wichtigen Orten (z.",
+        "exact_sentence": "Filteroptionen zur schnellen Orientierung\nWegbeschreibung zu den einzelnen Orten\nFilterbar auch nach Barrierefreiheit \nStandortanzeige: „Wo bin ich?“\nWegbeschreibungen zu wichtigen Orten (z."
+      },
+      "designer": {
+        "design_suggestion": "Introduce a prominent Accessibility mode toggle that switches to high-contrast, large-type layout and voice prompts; expose the toggle on the home tile."
+      },
+      "planner": {
+        "planning_suggestion": "Work with disability services to create an accessibility registry, tag assets in the CMS, and include accessibility metadata in the board's API responses."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "entwicklungsphase interaktive",
+    "roles": {
+      "citizen": {
+        "original_sentence": "erste Entwicklungsphase)\nInteraktive Karte mit Standortanzeige",
+        "exact_sentence": "erste Entwicklungsphase)\nInteraktive Karte mit Standortanzeige"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "sport theater",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Sport",
+        "exact_sentence": "Sport"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "boards für",
+    "roles": {
+      "citizen": {
+        "original_sentence": "auch separater Filter für städtische/politische Veranstaltungen)\nAnzeige von Veranstaltungsdetails und QR-Code zur Mitnahme und Ticketbuchungen auf Smartphone\nÖPNV-Fahrpläne & Mobilität\nAnzeige der nächsten Abfahrten\nFahrpläne für nahegelegene Haltestellen\nTaxi-Rufoption\nÖffentliche Toiletten & Infrastruktur\nDirekte Anzeige der nächstgelegenen Toiletten inkl.",
+        "exact_sentence": "auch separater Filter für städtische/politische Veranstaltungen)\nAnzeige von Veranstaltungsdetails und QR-Code zur Mitnahme und Ticketbuchungen auf Smartphone\nÖPNV-Fahrpläne & Mobilität\nAnzeige der nächsten Abfahrten\nFahrpläne für nahegelegene Haltestellen\nTaxi-Rufoption\nÖffentliche Toiletten & Infrastruktur\nDirekte Anzeige der nächstgelegenen Toiletten inkl."
+      },
+      "designer": {
+        "design_suggestion": "Combine next-departure cards with quick filters for 'all lines', 'accessible services', and 'real-time delays', plus vibration alerts for nearby stops."
+      },
+      "planner": {
+        "planning_suggestion": "Integrate GTFS-rt feeds and add a caching layer to handle transient API outages; set SLA and monitoring for feed freshness."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "tagesverlauf öpnv",
+    "roles": {
+      "citizen": {
+        "original_sentence": "auch separater Filter für städtische/politische Veranstaltungen)\nAnzeige von Veranstaltungsdetails und QR-Code zur Mitnahme und Ticketbuchungen auf Smartphone\nÖPNV-Fahrpläne & Mobilität\nAnzeige der nächsten Abfahrten\nFahrpläne für nahegelegene Haltestellen\nTaxi-Rufoption\nÖffentliche Toiletten & Infrastruktur\nDirekte Anzeige der nächstgelegenen Toiletten inkl.",
+        "exact_sentence": "auch separater Filter für städtische/politische Veranstaltungen)\nAnzeige von Veranstaltungsdetails und QR-Code zur Mitnahme und Ticketbuchungen auf Smartphone\nÖPNV-Fahrpläne & Mobilität\nAnzeige der nächsten Abfahrten\nFahrpläne für nahegelegene Haltestellen\nTaxi-Rufoption\nÖffentliche Toiletten & Infrastruktur\nDirekte Anzeige der nächstgelegenen Toiletten inkl."
+      },
+      "designer": {
+        "design_suggestion": "Combine next-departure cards with quick filters for 'all lines', 'accessible services', and 'real-time delays', plus vibration alerts for nearby stops."
+      },
+      "planner": {
+        "planning_suggestion": "Define data ownership and refresh cadence; include fallback static schedules and manual override for planned disruptions."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "feedback integration",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Zukunftsausbau)\nBürgerbeteiligung & Feedback\nIntegration Bamberg-Melder für Defekte oder Verbesserungsvorschläge\nUmfragen zur Bürgerbeteiligung\nWeiterführende Gamification & Edutainment-Module\nInteraktive Entdeckungstouren\nAvatar oder Figur",
+        "exact_sentence": "Zukunftsausbau)\nBürgerbeteiligung & Feedback\nIntegration Bamberg-Melder für Defekte oder Verbesserungsvorschläge\nUmfragen zur Bürgerbeteiligung\nWeiterführende Gamification & Edutainment-Module\nInteraktive Entdeckungstouren\nAvatar oder Figur"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx"
+  },
+  {
+    "day": "",
+    "keyword": "vhs oder",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Bleiben Sie nach Ihrem Kurs oft länger in der VHS oder in der Nähe?",
+        "exact_sentence": "Bleiben Sie nach Ihrem Kurs oft länger in der VHS oder in der Nähe?"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "kurses p4",
+    "roles": {
+      "citizen": {
+        "original_sentence": "wenn es Pausen zwischen Kursen oder innerhalb eines Kurses gibt?",
+        "exact_sentence": "wenn es Pausen zwischen Kursen oder innerhalb eines Kurses gibt?"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "veranstaltungen p5",
+    "roles": {
+      "citizen": {
+        "original_sentence": "aber schon jahrelang einzelne Veranstaltungen und Vorträge besucht\nP3: (50-60 J.) 1x pro Woche",
+        "exact_sentence": "aber schon jahrelang einzelne Veranstaltungen und Vorträge besucht\nP3: (50-60 J.) 1x pro Woche"
+      },
+      "designer": {
+        "design_suggestion": "Provide an events tile with filters (date, accessibility, type) and actionable QR/ticket links."
+      },
+      "planner": {
+        "planning_suggestion": "Build a central events database and partnerships with ticketing providers to surface up-to-date info."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "raumänderungen kursmaterialien",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Raumänderungen",
+        "exact_sentence": "Raumänderungen"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "60 musikvideos",
+    "roles": {
+      "citizen": {
+        "original_sentence": "hole mir Infos alle übers Handy\nP5 (60 J.) Musikvideos („aber nicht die Musik",
+        "exact_sentence": "hole mir Infos alle übers Handy\nP5 (60 J.) Musikvideos („aber nicht die Musik"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "infos enthalten",
+    "roles": {
+      "citizen": {
+        "original_sentence": "P1: (50-60 J.) Müsste helfen, Anliegen zu klären oder wichtige Infos enthalten (welche das sein könnten, weiß ich gerade nicht)\nP2: (65-65 J.) Fände so einen Bildschirm eher kontraproduktiv, dann tippen alle darauf rum, statt miteinander zu interagieren\nP3: (50-60 J.) Müsste interessante Infos enthalten, z.B.",
+        "exact_sentence": "P1: (50-60 J.) Müsste helfen, Anliegen zu klären oder wichtige Infos enthalten (welche das sein könnten, weiß ich gerade nicht)\nP2: (65-65 J.) Fände so einen Bildschirm eher kontraproduktiv, dann tippen alle darauf rum, statt miteinander zu interagieren\nP3: (50-60 J.) Müsste interessante Infos enthalten, z.B."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "25 ja",
+    "roles": {
+      "citizen": {
+        "original_sentence": ") 1x pro Woche, immer in den gleichen Kurs\nP4: (58 J",
+        "exact_sentence": ") 1x pro Woche, immer in den gleichen Kurs\nP4: (58 J"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "pro woche",
+    "roles": {
+      "citizen": {
+        "original_sentence": "(Wie lange schon insgesamt?)\nP1: (50-60 J.) 1x wöchentlich, seit 6 Jahren\nP2: (65-65 J.) heute zum ersten Mal wieder regelmäßiger Kurs, aber schon jahrelang einzelne Veranstaltungen und Vorträge besucht\nP3: (50-60 J.) 1x pro Woche, immer in den gleichen Kurs\nP4: (58 J.) 1x wöchentlich, seit über einem Jahr\nP5 (60 J.)  1x wöchentlich, seit über einem Jahr\nP6 (ca.",
+        "exact_sentence": "(Wie lange schon insgesamt?)\nP1: (50-60 J.) 1x wöchentlich, seit 6 Jahren\nP2: (65-65 J.) heute zum ersten Mal wieder regelmäßiger Kurs, aber schon jahrelang einzelne Veranstaltungen und Vorträge besucht\nP3: (50-60 J.) 1x pro Woche, immer in den gleichen Kurs\nP4: (58 J.) 1x wöchentlich, seit über einem Jahr\nP5 (60 J.)  1x wöchentlich, seit über einem Jahr\nP6 (ca."
+      },
+      "designer": {
+        "design_suggestion": "Offer a 'What's on now' spotlight that surfaces ongoing events with a large, attention-grabbing visual and CTA to directions."
+      },
+      "planner": {
+        "planning_suggestion": "Set up an events ingestion pipeline (CSV/JSON) with editorial approval and versioned publishes; define partnership terms with local venues."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "weitere möglichkeiten",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Weitere Möglichkeiten: \nEinbindung Ferienportal: Übersicht der Programme und Angebote",
+        "exact_sentence": "Weitere Möglichkeiten: \nEinbindung Ferienportal: Übersicht der Programme und Angebote"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "besorgungen in",
+    "roles": {
+      "citizen": {
+        "original_sentence": "P1: (50-60 J.) nichts bestimmtes, aber wohne in der Nähe\nP2: (65-65 J.) eventuell Besorgungen in der Stadt, manchmal nach Kurs Aktivitäten mit den anderen Teilnehmern, wird gemeinsam ausgemacht wo man hingeht \nP3: (50-60 J.) Zuletzt sind Teilnehmer im Anschluss noch gemeinsam ins Café gegangen (Absprache zuvor während des Kurses)\nP4 & 5: Nein, direkt zur Arbeit weiter\nP6 (25 J.) manchmal noch kurzer Aufenthalt in VHS für Gespräche, ansonsten in die Stadt, Mensa, Uni, oder Bib",
+        "exact_sentence": "P1: (50-60 J.) nichts bestimmtes, aber wohne in der Nähe\nP2: (65-65 J.) eventuell Besorgungen in der Stadt, manchmal nach Kurs Aktivitäten mit den anderen Teilnehmern, wird gemeinsam ausgemacht wo man hingeht \nP3: (50-60 J.) Zuletzt sind Teilnehmer im Anschluss noch gemeinsam ins Café gegangen (Absprache zuvor während des Kurses)\nP4 & 5: Nein, direkt zur Arbeit weiter\nP6 (25 J.) manchmal noch kurzer Aufenthalt in VHS für Gespräche, ansonsten in die Stadt, Mensa, Uni, oder Bib"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "65 was",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Was machen Sie typischerweise",
+        "exact_sentence": "Was machen Sie typischerweise"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "semester zum",
+    "roles": {
+      "citizen": {
+        "original_sentence": "25 J.) 1x wöchentlich, um einen Kurs zu geben; dieses Semester zum ersten Mal",
+        "exact_sentence": "25 J.) 1x wöchentlich, um einen Kurs zu geben; dieses Semester zum ersten Mal"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "per vgn",
+    "roles": {
+      "citizen": {
+        "original_sentence": "P1: (50-60 J.) Fahrrad\nP2: (65-65 J.) Fahrrad oder Bus (für Bus: Person weiß Infos auswendig oder schaut per VGN-App/Google Maps  nach)\nP3: (50-60 J.) Fahrrad\nP4: (58 J.) Fahrrad\nP5 (60 J.)   Fahrrad, außer es schüttet, dann Auto\nP6 (25 J.) Fahrrad",
+        "exact_sentence": "P1: (50-60 J.) Fahrrad\nP2: (65-65 J.) Fahrrad oder Bus (für Bus: Person weiß Infos auswendig oder schaut per VGN-App/Google Maps  nach)\nP3: (50-60 J.) Fahrrad\nP4: (58 J.) Fahrrad\nP5 (60 J.)   Fahrrad, außer es schüttet, dann Auto\nP6 (25 J.) Fahrrad"
+      },
+      "designer": {
+        "design_suggestion": "Show a mini-map beside departure times highlighting the nearest stop and walking ETA; include a 'save route' QR code for mobile directions."
+      },
+      "planner": {
+        "planning_suggestion": "Define data ownership and refresh cadence; include fallback static schedules and manual override for planned disruptions."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "geräten benötigen",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Bedürfnisfragen (zum Bedarf an Informationen und Geräten)\nBenötigen Sie vor oder nach einem Kurs spezifische Informationen von der VHS (z.B.",
+        "exact_sentence": "Bedürfnisfragen (zum Bedarf an Informationen und Geräten)\nBenötigen Sie vor oder nach einem Kurs spezifische Informationen von der VHS (z.B."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "stadtbibliothek wichtiger",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Fände ich in der Stadtbibliothek wichtiger, da bin ich öfter!",
+        "exact_sentence": "Fände ich in der Stadtbibliothek wichtiger, da bin ich öfter!"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "webseite 1x",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Einbindung der VHS-Webseite",
+        "exact_sentence": "Einbindung der VHS-Webseite"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "keine pause",
+    "roles": {
+      "citizen": {
+        "original_sentence": "P1: (50-60 J.) Private Treffen organisieren (TN unter sich)\nP2: (65-65 J.) bei Pausen früher gern ins Bistro, heute am Automaten im Eingangsbereich, Unterhaltung mit anderen Kursteilnehmern\nP3: (50-60 J.) Es gibt in meinem Kurs keine Pause\nP4 & 5: Keine Pausen im Kurs\nP6 (25 J.) Keine Pause",
+        "exact_sentence": "P1: (50-60 J.) Private Treffen organisieren (TN unter sich)\nP2: (65-65 J.) bei Pausen früher gern ins Bistro, heute am Automaten im Eingangsbereich, Unterhaltung mit anderen Kursteilnehmern\nP3: (50-60 J.) Es gibt in meinem Kurs keine Pause\nP4 & 5: Keine Pausen im Kurs\nP6 (25 J.) Keine Pause"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "was würden",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Wenn die VHS einen großen Bildschirm hier platziert hätte, was würden Sie darauf sehen wollen?",
+        "exact_sentence": "Wenn die VHS einen großen Bildschirm hier platziert hätte, was würden Sie darauf sehen wollen?"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "ggf nachrichten",
+    "roles": {
+      "citizen": {
+        "original_sentence": "ggf.",
+        "exact_sentence": "ggf."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "hat man",
+    "roles": {
+      "citizen": {
+        "original_sentence": "„So ein Schmarrn, dafür hat man ein Smartphone“\nKann man auch zuhause anschauen\nFinde die Webseite sowieso ganz gut, kann nicht schaden die hier vor Ort zu haben",
+        "exact_sentence": "„So ein Schmarrn, dafür hat man ein Smartphone“\nKann man auch zuhause anschauen\nFinde die Webseite sowieso ganz gut, kann nicht schaden die hier vor Ort zu haben"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx"
+  },
+  {
+    "day": "",
+    "keyword": "musikschule nutzungskontextbeschreibung",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Projekt Bamboard\nStandort Musikschule\nNutzungskontextbeschreibung\nBenutzergruppen: \nEltern",
+        "exact_sentence": "Projekt Bamboard\nStandort Musikschule\nNutzungskontextbeschreibung\nBenutzergruppen: \nEltern"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "aufgabenmodell aufgabe",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Aufgabenmodell: Eine Beschreibung einer Aufgabe",
+        "exact_sentence": "Aufgabenmodell: Eine Beschreibung einer Aufgabe"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "beschreibung einer",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Aufgabenmodell: Eine Beschreibung einer Aufgabe, die aus dem Grund für das Beginnen der Aufgabe, dem Ziel, das sie unterstützt, und den Teilaufgaben besteht, die ausgeführt werden müssen, um die Aufgabe zu erledigen.",
+        "exact_sentence": "Aufgabenmodell: Eine Beschreibung einer Aufgabe, die aus dem Grund für das Beginnen der Aufgabe, dem Ziel, das sie unterstützt, und den Teilaufgaben besteht, die ausgeführt werden müssen, um die Aufgabe zu erledigen."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "am bamboard",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Elternteil verbringt die 30 Minuten Unterrichtszeit im Aufenthaltsraum und schaut am Bamboard Veranstaltungen und Musikschultermine an und trägt interessante Termine ins eigene Smartphone ein.",
+        "exact_sentence": "Elternteil verbringt die 30 Minuten Unterrichtszeit im Aufenthaltsraum und schaut am Bamboard Veranstaltungen und Musikschultermine an und trägt interessante Termine ins eigene Smartphone ein."
+      },
+      "designer": {
+        "design_suggestion": "Create an events carousel with rich cards (image, time, short blurb) and a clear 'Get tickets' / 'Add to calendar' action using QR codes."
+      },
+      "planner": {
+        "planning_suggestion": "Run an events pilot with 10 venues and measure freshness, then automate imports from city event calendars."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "gemütliches beisammensein",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Schritte: Bücher lesen, ausgehängte Plakate betrachten, Besuch der Fotoausstellung, Interaktion mit Teilnehmenden \nAufgabe: Vernetzung mit anderen Teilnehmern nach dem Kurs\nZiel: Gemütliches Beisammensein nach dem Kurs \nSchritte: Auf Kneipe/Café einigen und dort hin gehen\nIst-Szenarien (eine erzählende, textuelle Beschreibung, wie Benutzer*innen derzeit eine oder mehrere Aufgaben im aktuellen Nutzungskontext erledigen)\nDie meisten Menschen, die die VHS besuchen, kommen eher kurz vor knapp (ca.",
+        "exact_sentence": "Schritte: Bücher lesen, ausgehängte Plakate betrachten, Besuch der Fotoausstellung, Interaktion mit Teilnehmenden \nAufgabe: Vernetzung mit anderen Teilnehmern nach dem Kurs\nZiel: Gemütliches Beisammensein nach dem Kurs \nSchritte: Auf Kneipe/Café einigen und dort hin gehen\nIst-Szenarien (eine erzählende, textuelle Beschreibung, wie Benutzer*innen derzeit eine oder mehrere Aufgaben im aktuellen Nutzungskontext erledigen)\nDie meisten Menschen, die die VHS besuchen, kommen eher kurz vor knapp (ca."
+      },
+      "designer": {
+        "design_suggestion": "Offer a persistent search bar with quick-suggest tokens (e.g., 'events', 'toilets', 'bus') and voice input icon."
+      },
+      "planner": {
+        "planning_suggestion": "Define searchable metadata and enforce it at CMS input time; implement an autocomplete index that updates nightly."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "code elternteil",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Elternteil verbringt die 30 Minuten Unterrichtszeit im Aufenthaltsraum und schaut am Bamboard Veranstaltungen und Musikschultermine an und trägt interessante Termine ins eigene Smartphone ein.",
+        "exact_sentence": "Elternteil verbringt die 30 Minuten Unterrichtszeit im Aufenthaltsraum und schaut am Bamboard Veranstaltungen und Musikschultermine an und trägt interessante Termine ins eigene Smartphone ein."
+      },
+      "designer": {
+        "design_suggestion": "Create an events carousel with rich cards (image, time, short blurb) and a clear 'Get tickets' / 'Add to calendar' action using QR codes."
+      },
+      "planner": {
+        "planning_suggestion": "Create a lightweight ticketing integration or deep-link system and track conversion metrics (QR scans, calendar adds)."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "zu erledigen",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Aufgabenmodell: Eine Beschreibung einer Aufgabe, die aus dem Grund für das Beginnen der Aufgabe, dem Ziel, das sie unterstützt, und den Teilaufgaben besteht, die ausgeführt werden müssen, um die Aufgabe zu erledigen.",
+        "exact_sentence": "Aufgabenmodell: Eine Beschreibung einer Aufgabe, die aus dem Grund für das Beginnen der Aufgabe, dem Ziel, das sie unterstützt, und den Teilaufgaben besteht, die ausgeführt werden müssen, um die Aufgabe zu erledigen."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "maps sekretariat",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Schüler und Lehrkräfte an der Musikschule (Frontend)\nSekretariat",
+        "exact_sentence": "Schüler und Lehrkräfte an der Musikschule (Frontend)\nSekretariat"
+      },
+      "designer": {
+        "design_suggestion": "Present an interactive map view with highlighted POIs and an obvious \"Where am I\" indicator."
+      },
+      "planner": {
+        "planning_suggestion": "Curate and geo-tag POIs in a central dataset and sync it with the mapping service used by the board."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "bekommt pdf",
+    "roles": {
+      "citizen": {
+        "original_sentence": "(idealerweise: Funktion, diese gleich in den Smartphone-Kalender einzutragen mit QR-Code o.Ä.)\nElternteil wartet auf Kind, sieht, dass es auf dem Bamboard die Möglichkeit zur Online-Anmeldung gibt und meldet ein zweites Kind für die Musikschule an\nLehrkraft hat spontan Leerlauf, weil ein Schüler abgesagt hat → auf dem Weg in die Kaffeeküche nochmal kurz aufs Bamboard schauen  \nSchüler wartet nach dem Unterricht auf die Orchesterprobe und schaut in der Zwischenzeit Bilder vom letzten Musikschulfest an \nNutzung der Börse (jemand möchte ein Instrument verkaufen und trägt das direkt im Bamboard ein)\nSekretariat bekommt PDF für Plakataushang und lädt dieses im CMS des BamBoards hoch mit Start- und Endzeitpunkt (erscheint automatisch im Slider und verschwindet automatisch wieder)\nRaumbelegungsplan wird übersichtlich digital dargestellt (Verknüpfung mit Wegeleitsystem)\nSchüler/Lehrer/Eltern finden durch ein intuitives Wegeleitsystem leicht alle Räumlichkeiten\nUser Stories:\n„Als Musikschulleiter möchte ich auf dem Bamboard Veranstaltungshinweise anbringen, sodass diese gut sichtbar für Besucher der Musikschule sind.“  \nBenutzererfordernisse\nSystemunabhängige Voraussetzungen aus Benutzersicht \nBackend-Benutzer möchten Termine nur an einer Stelle eintragen müssen.",
+        "exact_sentence": "(idealerweise: Funktion, diese gleich in den Smartphone-Kalender einzutragen mit QR-Code o.Ä.)\nElternteil wartet auf Kind, sieht, dass es auf dem Bamboard die Möglichkeit zur Online-Anmeldung gibt und meldet ein zweites Kind für die Musikschule an\nLehrkraft hat spontan Leerlauf, weil ein Schüler abgesagt hat → auf dem Weg in die Kaffeeküche nochmal kurz aufs Bamboard schauen  \nSchüler wartet nach dem Unterricht auf die Orchesterprobe und schaut in der Zwischenzeit Bilder vom letzten Musikschulfest an \nNutzung der Börse (jemand möchte ein Instrument verkaufen und trägt das direkt im Bamboard ein)\nSekretariat bekommt PDF für Plakataushang und lädt dieses im CMS des BamBoards hoch mit Start- und Endzeitpunkt (erscheint automatisch im Slider und verschwindet automatisch wieder)\nRaumbelegungsplan wird übersichtlich digital dargestellt (Verknüpfung mit Wegeleitsystem)\nSchüler/Lehrer/Eltern finden durch ein intuitives Wegeleitsystem leicht alle Räumlichkeiten\nUser Stories:\n„Als Musikschulleiter möchte ich auf dem Bamboard Veranstaltungshinweise anbringen, sodass diese gut sichtbar für Besucher der Musikschule sind.“  \nBenutzererfordernisse\nSystemunabhängige Voraussetzungen aus Benutzersicht \nBackend-Benutzer möchten Termine nur an einer Stelle eintragen müssen."
+      },
+      "designer": {
+        "design_suggestion": "Provide a filterable map of events by time window (now/this week/this weekend) and a 'nearby' toggle that prefers local venues."
+      },
+      "planner": {
+        "planning_suggestion": "Run an events pilot with 10 venues and measure freshness, then automate imports from city event calendars."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "backend ggf",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Musikschulleitung und EDV (Backend)\nggf.",
+        "exact_sentence": "Musikschulleitung und EDV (Backend)\nggf."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "zwischen aktivitäten",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Aufgabe: Überbrückung von Wartezeit\nZiel: Leerlauf vor Kursbeginn oder zwischen Aktivitäten in der VHS überbrücken.",
+        "exact_sentence": "Aufgabe: Überbrückung von Wartezeit\nZiel: Leerlauf vor Kursbeginn oder zwischen Aktivitäten in der VHS überbrücken."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "verschwindet automatisch",
+    "roles": {
+      "citizen": {
+        "original_sentence": "(idealerweise: Funktion, diese gleich in den Smartphone-Kalender einzutragen mit QR-Code o.Ä.)\nElternteil wartet auf Kind, sieht, dass es auf dem Bamboard die Möglichkeit zur Online-Anmeldung gibt und meldet ein zweites Kind für die Musikschule an\nLehrkraft hat spontan Leerlauf, weil ein Schüler abgesagt hat → auf dem Weg in die Kaffeeküche nochmal kurz aufs Bamboard schauen  \nSchüler wartet nach dem Unterricht auf die Orchesterprobe und schaut in der Zwischenzeit Bilder vom letzten Musikschulfest an \nNutzung der Börse (jemand möchte ein Instrument verkaufen und trägt das direkt im Bamboard ein)\nSekretariat bekommt PDF für Plakataushang und lädt dieses im CMS des BamBoards hoch mit Start- und Endzeitpunkt (erscheint automatisch im Slider und verschwindet automatisch wieder)\nRaumbelegungsplan wird übersichtlich digital dargestellt (Verknüpfung mit Wegeleitsystem)\nSchüler/Lehrer/Eltern finden durch ein intuitives Wegeleitsystem leicht alle Räumlichkeiten\nUser Stories:\n„Als Musikschulleiter möchte ich auf dem Bamboard Veranstaltungshinweise anbringen, sodass diese gut sichtbar für Besucher der Musikschule sind.“  \nBenutzererfordernisse\nSystemunabhängige Voraussetzungen aus Benutzersicht \nBackend-Benutzer möchten Termine nur an einer Stelle eintragen müssen.",
+        "exact_sentence": "(idealerweise: Funktion, diese gleich in den Smartphone-Kalender einzutragen mit QR-Code o.Ä.)\nElternteil wartet auf Kind, sieht, dass es auf dem Bamboard die Möglichkeit zur Online-Anmeldung gibt und meldet ein zweites Kind für die Musikschule an\nLehrkraft hat spontan Leerlauf, weil ein Schüler abgesagt hat → auf dem Weg in die Kaffeeküche nochmal kurz aufs Bamboard schauen  \nSchüler wartet nach dem Unterricht auf die Orchesterprobe und schaut in der Zwischenzeit Bilder vom letzten Musikschulfest an \nNutzung der Börse (jemand möchte ein Instrument verkaufen und trägt das direkt im Bamboard ein)\nSekretariat bekommt PDF für Plakataushang und lädt dieses im CMS des BamBoards hoch mit Start- und Endzeitpunkt (erscheint automatisch im Slider und verschwindet automatisch wieder)\nRaumbelegungsplan wird übersichtlich digital dargestellt (Verknüpfung mit Wegeleitsystem)\nSchüler/Lehrer/Eltern finden durch ein intuitives Wegeleitsystem leicht alle Räumlichkeiten\nUser Stories:\n„Als Musikschulleiter möchte ich auf dem Bamboard Veranstaltungshinweise anbringen, sodass diese gut sichtbar für Besucher der Musikschule sind.“  \nBenutzererfordernisse\nSystemunabhängige Voraussetzungen aus Benutzersicht \nBackend-Benutzer möchten Termine nur an einer Stelle eintragen müssen."
+      },
+      "designer": {
+        "design_suggestion": "Offer a 'What's on now' spotlight that surfaces ongoing events with a large, attention-grabbing visual and CTA to directions."
+      },
+      "planner": {
+        "planning_suggestion": "Create a lightweight ticketing integration or deep-link system and track conversion metrics (QR scans, calendar adds)."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "richtigen kursraum",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Personas einfügen\nAufgabenmodell: \nAufgabe: Kurs besuchen  \nZiel: Zur richtigen Zeit mit den nötigen Materialien im richtigen Kursraum sein \nSchritte: Menschen informieren sich vorab auf der Homepage oder im gedruckten Programm über ihren Kurs und nötige Voraussetzungen.Sie fahren zur VHS, betreten die VHS, schauen auf den Bildschirm im Eingangsbereich, um zu sehen, wo ihr Kurs stattfindet, und gehen dort hin.",
+        "exact_sentence": "Personas einfügen\nAufgabenmodell: \nAufgabe: Kurs besuchen  \nZiel: Zur richtigen Zeit mit den nötigen Materialien im richtigen Kursraum sein \nSchritte: Menschen informieren sich vorab auf der Homepage oder im gedruckten Programm über ihren Kurs und nötige Voraussetzungen.Sie fahren zur VHS, betreten die VHS, schauen auf den Bildschirm im Eingangsbereich, um zu sehen, wo ihr Kurs stattfindet, und gehen dort hin."
+      },
+      "designer": {
+        "design_suggestion": "Provide faceted filters inline with results and an 'I want to...' quick-actions section for common intentions."
+      },
+      "planner": {
+        "planning_suggestion": "Define searchable metadata and enforce it at CMS input time; implement an autocomplete index that updates nightly."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "quantitativ standort",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Projekt Bamboard\nStandort Musikschule\nNutzungskontextbeschreibung\nBenutzergruppen: \nEltern",
+        "exact_sentence": "Projekt Bamboard\nStandort Musikschule\nNutzungskontextbeschreibung\nBenutzergruppen: \nEltern"
+      },
+      "designer": {
+        "design_suggestion": "Present an interactive map view with highlighted POIs and an obvious \"Where am I\" indicator."
+      },
+      "planner": {
+        "planning_suggestion": "Curate and geo-tag POIs in a central dataset and sync it with the mapping service used by the board."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "zertifizierungsprüfung in",
+    "roles": {
+      "citizen": {
+        "original_sentence": "in den Semesterferien, wenn keine Kurse stattfinden\nMenschen mit Migrationshintergrund, die den Einbürgerungstest oder die B1-Zertifizierungsprüfung in der VHS ablegen \nggf.",
+        "exact_sentence": "in den Semesterferien, wenn keine Kurse stattfinden\nMenschen mit Migrationshintergrund, die den Einbürgerungstest oder die B1-Zertifizierungsprüfung in der VHS ablegen \nggf."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "smartphone ein",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Elternteil verbringt die 30 Minuten Unterrichtszeit im Aufenthaltsraum und schaut am Bamboard Veranstaltungen und Musikschultermine an und trägt interessante Termine ins eigene Smartphone ein.",
+        "exact_sentence": "Elternteil verbringt die 30 Minuten Unterrichtszeit im Aufenthaltsraum und schaut am Bamboard Veranstaltungen und Musikschultermine an und trägt interessante Termine ins eigene Smartphone ein."
+      },
+      "designer": {
+        "design_suggestion": "Offer a 'What's on now' spotlight that surfaces ongoing events with a large, attention-grabbing visual and CTA to directions."
+      },
+      "planner": {
+        "planning_suggestion": "Run an events pilot with 10 venues and measure freshness, then automate imports from city event calendars."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "vhs ablegen",
+    "roles": {
+      "citizen": {
+        "original_sentence": "in den Semesterferien, wenn keine Kurse stattfinden\nMenschen mit Migrationshintergrund, die den Einbürgerungstest oder die B1-Zertifizierungsprüfung in der VHS ablegen \nggf.",
+        "exact_sentence": "in den Semesterferien, wenn keine Kurse stattfinden\nMenschen mit Migrationshintergrund, die den Einbürgerungstest oder die B1-Zertifizierungsprüfung in der VHS ablegen \nggf."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "per",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Personas einfügen\nggf.",
+        "exact_sentence": "Personas einfügen\nggf."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "migrationshintergrund",
+    "roles": {
+      "citizen": {
+        "original_sentence": "in den Semesterferien, wenn keine Kurse stattfinden\nMenschen mit Migrationshintergrund, die den Einbürgerungstest oder die B1-Zertifizierungsprüfung in der VHS ablegen \nggf.",
+        "exact_sentence": "in den Semesterferien, wenn keine Kurse stattfinden\nMenschen mit Migrationshintergrund, die den Einbürgerungstest oder die B1-Zertifizierungsprüfung in der VHS ablegen \nggf."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "schnell",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Es gibt eine Vielzahl an analogen Aushängemöglichkeiten (2x Aufenthaltsraum EG, 2x Gang EG, 1x Treppenhaus, 1x pro Etage) \nRaumbelegungsplan wird als Exceltabelle ausgedruckt (große Tabelle, kleingedruckt, übersicht geht schnell verloren)\nSoll-Szenarien/User Journey Maps\nSekretariat erfährt von Raumverlegung, trägt die Details im CMS des Bamboards ein, Hinweis erscheint auf dem Bamboard (Zeitabhängig) \nSchüler kommt rein, sieht präsent auf dem Bamboard den Hinweis, dass sein Unterricht heute in einem anderen Raum stattfindet  und geht direkt dort hin.",
+        "exact_sentence": "Es gibt eine Vielzahl an analogen Aushängemöglichkeiten (2x Aufenthaltsraum EG, 2x Gang EG, 1x Treppenhaus, 1x pro Etage) \nRaumbelegungsplan wird als Exceltabelle ausgedruckt (große Tabelle, kleingedruckt, übersicht geht schnell verloren)\nSoll-Szenarien/User Journey Maps\nSekretariat erfährt von Raumverlegung, trägt die Details im CMS des Bamboards ein, Hinweis erscheint auf dem Bamboard (Zeitabhängig) \nSchüler kommt rein, sieht präsent auf dem Bamboard den Hinweis, dass sein Unterricht heute in einem anderen Raum stattfindet  und geht direkt dort hin."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx"
+  },
+  {
+    "day": "",
+    "keyword": "evaluation bamboard",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Dieser Bericht fasst die Ergebnisse verschiedener Evaluationsmaßnahmen zusammen",
+        "exact_sentence": "Dieser Bericht fasst die Ergebnisse verschiedener Evaluationsmaßnahmen zusammen"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "verschiedener evaluationsmaßnahmen",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Dieser Bericht fasst die Ergebnisse verschiedener Evaluationsmaßnahmen zusammen, die zur Bewertung des BamBoard-Projekts durchgeführt wurden.",
+        "exact_sentence": "Dieser Bericht fasst die Ergebnisse verschiedener Evaluationsmaßnahmen zusammen, die zur Bewertung des BamBoard-Projekts durchgeführt wurden."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "zusammenfassung usability",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Spiele sowie die Einbindung von relevanten Social Media-Beiträgen und anderen zielgruppengerechten Angeboten \nInhalt\n1 Die wichtigsten Punkte auf einen Blick:\t1\n2 Zusammenfassung Usability-Test\t3\n3 Feedback aus Nutzerinterviews zum BamBoard\t4\n4 Feedback zur Weiterentwicklung (BamBoard)\t6\n5 Feedback aus Nutzerinterviews (CMS)\t8\n5.1.1 BasKIDhall (iSo e.V.)\t8\n5.1.2 Stadtbau GmbH\t10",
+        "exact_sentence": "Spiele sowie die Einbindung von relevanten Social Media-Beiträgen und anderen zielgruppengerechten Angeboten \nInhalt\n1 Die wichtigsten Punkte auf einen Blick:\t1\n2 Zusammenfassung Usability-Test\t3\n3 Feedback aus Nutzerinterviews zum BamBoard\t4\n4 Feedback zur Weiterentwicklung (BamBoard)\t6\n5 Feedback aus Nutzerinterviews (CMS)\t8\n5.1.1 BasKIDhall (iSo e.V.)\t8\n5.1.2 Stadtbau GmbH\t10"
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Add bite-sized gamified interactions (quiz tiles) that reward discovery and repeat visits."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Define success metrics for engagement and pilot a gamified module at one location."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "weiterentwicklung aufzudecken",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Primärer Zweck der Evaluierung war, positive Aspekte, aber auch Verbesserungspotenziale für die Weiterentwicklung aufzudecken.",
+        "exact_sentence": "Primärer Zweck der Evaluierung war, positive Aspekte, aber auch Verbesserungspotenziale für die Weiterentwicklung aufzudecken."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "test ergaben",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Beim Usability-Test ergaben sich insgesamt sechs Probleme.",
+        "exact_sentence": "Beim Usability-Test ergaben sich insgesamt sechs Probleme."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "energieverbrauch ggf",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Bilder und ggf.",
+        "exact_sentence": "Bilder und ggf."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "cms geführt",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Außerdem werden Erkenntnisse aus Interviews, die in diesem Zusammenhang mit Bewohnern in Häusern mit einem installierten BamBoard sowie den Nutzern des zugehörigen CMS geführt wurden, dargelegt.",
+        "exact_sentence": "Außerdem werden Erkenntnisse aus Interviews, die in diesem Zusammenhang mit Bewohnern in Häusern mit einem installierten BamBoard sowie den Nutzern des zugehörigen CMS geführt wurden, dargelegt."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "per rundbrief",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Infos an BamBoards gibt es immer auch zusätzlich auch per Rundbrief \nEs gibt für Bewohner auch eine Stadtbau-App über die entsprechende Infos geteilt werden (Verbindung von BamBoard und App aber nicht unbedingt interessant bzw.",
+        "exact_sentence": "Infos an BamBoards gibt es immer auch zusätzlich auch per Rundbrief \nEs gibt für Bewohner auch eine Stadtbau-App über die entsprechende Infos geteilt werden (Verbindung von BamBoard und App aber nicht unbedingt interessant bzw."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "bewohnern",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Außerdem werden Erkenntnisse aus Interviews, die in diesem Zusammenhang mit Bewohnern in Häusern mit einem installierten BamBoard sowie den Nutzern des zugehörigen CMS geführt wurden, dargelegt.",
+        "exact_sentence": "Außerdem werden Erkenntnisse aus Interviews, die in diesem Zusammenhang mit Bewohnern in Häusern mit einem installierten BamBoard sowie den Nutzern des zugehörigen CMS geführt wurden, dargelegt."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "nützlichkeit für",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Anwendergruppe „Studierende“: \nPositiv bewertet:\nClean Design\nNützlichkeit für den konkreten Anwendungsfall",
+        "exact_sentence": "Anwendergruppe „Studierende“: \nPositiv bewertet:\nClean Design\nNützlichkeit für den konkreten Anwendungsfall"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "verbraucherprofil",
+    "roles": {
+      "citizen": {
+        "original_sentence": "„Verbraucherprofil“",
+        "exact_sentence": "„Verbraucherprofil“"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "senioren profitieren",
+    "roles": {
+      "citizen": {
+        "original_sentence": "verstärkte Nutzung von Symbolen und Bildern anstelle von Text (wovon auch die Zielgruppe der Senioren profitieren würde) sowie eine Attraktivitätssteigerung durch Effekte, Bilder und ggf.",
+        "exact_sentence": "verstärkte Nutzung von Symbolen und Bildern anstelle von Text (wovon auch die Zielgruppe der Senioren profitieren würde) sowie eine Attraktivitätssteigerung durch Effekte, Bilder und ggf."
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Use large type, high contrast, and an easy-to-reach layout for senior users."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Schedule usability sessions with seniors and factor accessibility improvements into rollout plans."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "haushaltsgegenständen infos",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Auf dem Weg zum Bus nach Verspätungen zu schauen wurde als ein typisches Nutzungsszenario genannt\nAm beliebtesten sind bei den Befragten und deren Angehörigen die ÖPNV-Infos sowie die Nachrichten.",
+        "exact_sentence": "Auf dem Weg zum Bus nach Verspätungen zu schauen wurde als ein typisches Nutzungsszenario genannt\nAm beliebtesten sind bei den Befragten und deren Angehörigen die ÖPNV-Infos sowie die Nachrichten."
+      },
+      "designer": {
+        "design_suggestion": "Surface a live departures carousel that users can swipe through, show platform, delay color-coding and an action to 'Route to station' opening navigation on the phone."
+      },
+      "planner": {
+        "planning_suggestion": "Integrate GTFS-rt feeds and add a caching layer to handle transient API outages; set SLA and monitoring for feed freshness."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "zwischen pdfs",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Ergänzungen, Weiterentwicklungsmöglichkeiten:\nVerbindung zwischen PDFs und „Anzeigen“ ermöglichen, z.B.",
+        "exact_sentence": "Ergänzungen, Weiterentwicklungsmöglichkeiten:\nVerbindung zwischen PDFs und „Anzeigen“ ermöglichen, z.B."
+      },
+      "designer": {
+        "design_suggestion": "Allow users to open a compact reader mode that paginates PDFs onsite for quick browsing without downloads."
+      },
+      "planner": {
+        "planning_suggestion": "Implement a document-storage workflow in the CMS with versioning, expiration dates and thumbnails generation."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "baskidhall iso",
+    "roles": {
+      "citizen": {
+        "original_sentence": "der im Dezember 2023 an der ersten Version des BamBoards vor Ort in der BasKIDhall durchgeführt wurde.",
+        "exact_sentence": "der im Dezember 2023 an der ersten Version des BamBoards vor Ort in der BasKIDhall durchgeführt wurde."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "interviews die",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Dieser Bericht fasst die Ergebnisse verschiedener Evaluationsmaßnahmen zusammen",
+        "exact_sentence": "Dieser Bericht fasst die Ergebnisse verschiedener Evaluationsmaßnahmen zusammen"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "login logout",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Login/Logout-Problem beheben (z.B.",
+        "exact_sentence": "Login/Logout-Problem beheben (z.B."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "zur barrierefreiheit",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Speziell für Zielgruppe Menschen mit Beeinträchtigungen:\nSprachsteuerung und -ausgabe\nHöherer Kontrast\nVerstellbare Höhe der Inhalte oder des ganzen BamBoards\nÜbersetzung auch in Leichte Sprache \nBei ÖPNV Angaben zur Barrierefreiheit der Busse\nInfos über barrierefreie Angebote in der Nähe, nächstgelegene öffentliche Toiletten etc.",
+        "exact_sentence": "Speziell für Zielgruppe Menschen mit Beeinträchtigungen:\nSprachsteuerung und -ausgabe\nHöherer Kontrast\nVerstellbare Höhe der Inhalte oder des ganzen BamBoards\nÜbersetzung auch in Leichte Sprache \nBei ÖPNV Angaben zur Barrierefreiheit der Busse\nInfos über barrierefreie Angebote in der Nähe, nächstgelegene öffentliche Toiletten etc."
+      },
+      "designer": {
+        "design_suggestion": "Introduce a prominent Accessibility mode toggle that switches to high-contrast, large-type layout and voice prompts; expose the toggle on the home tile."
+      },
+      "planner": {
+        "planning_suggestion": "Create an accessible content pipeline with translations, easy-language versions, and regular verification by user groups."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "engagementplattform",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Integration von Teilen der Engagementplattform?)\nKarte mit POIs in der Umgebung",
+        "exact_sentence": "Integration von Teilen der Engagementplattform?)\nKarte mit POIs in der Umgebung"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "2023",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Dazu gehörte maßgeblich ein Usability-Test, der im Dezember 2023 an der ersten Version des BamBoards vor Ort in der BasKIDhall durchgeführt wurde.",
+        "exact_sentence": "Dazu gehörte maßgeblich ein Usability-Test, der im Dezember 2023 an der ersten Version des BamBoards vor Ort in der BasKIDhall durchgeführt wurde."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "musikschule erledigt",
+    "roles": {
+      "citizen": {
+        "original_sentence": "UX- und Bürgerbeteiligungs-Fahrplan für das Projekt „BamBoards“\nErster Schritt: Kontextuelle Interviews an den Standorten (mit echten Nutzern/Besuchern) \nZeitplan: Abgeschlossen bis Ende Mai 2024\nMusikschule → erledigt \nVHS (1.",
+        "exact_sentence": "UX- und Bürgerbeteiligungs-Fahrplan für das Projekt „BamBoards“\nErster Schritt: Kontextuelle Interviews an den Standorten (mit echten Nutzern/Besuchern) \nZeitplan: Abgeschlossen bis Ende Mai 2024\nMusikschule → erledigt \nVHS (1."
+      },
+      "designer": {
+        "design_suggestion": "Surface a live departures carousel that users can swipe through, show platform, delay color-coding and an action to 'Route to station' opening navigation on the phone."
+      },
+      "planner": {
+        "planning_suggestion": "Define data ownership and refresh cadence; include fallback static schedules and manual override for planned disruptions."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "zum standort",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Bamberg gestalten) Koordination mit Amt 13 zur Veröffentlichung auch auf Stadt-Kanälen\nBezug zum Standort: In der Umfrage die drei Beispielszenarien beschreiben (Foto vom jeweiligen Standort + Feature-Abfrage (offen, was sollte auf all diesen Displays zu sehen sein und was soll nur genau auf diesem Bildschirm zu sehen sein?)\nMoodboard für Kontexteindruck → ÖA: Foto?",
+        "exact_sentence": "Bamberg gestalten) Koordination mit Amt 13 zur Veröffentlichung auch auf Stadt-Kanälen\nBezug zum Standort: In der Umfrage die drei Beispielszenarien beschreiben (Foto vom jeweiligen Standort + Feature-Abfrage (offen, was sollte auf all diesen Displays zu sehen sein und was soll nur genau auf diesem Bildschirm zu sehen sein?)\nMoodboard für Kontexteindruck → ÖA: Foto?"
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Present an interactive map view with highlighted POIs and an obvious \"Where am I\" indicator."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Curate and geo-tag POIs in a central dataset and sync it with the mapping service used by the board."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "zur veröffentlichung",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Bamberg gestalten) Koordination mit Amt 13 zur Veröffentlichung auch auf Stadt-Kanälen\nBezug zum Standort: In der Umfrage die drei Beispielszenarien beschreiben (Foto vom jeweiligen Standort + Feature-Abfrage (offen, was sollte auf all diesen Displays zu sehen sein und was soll nur genau auf diesem Bildschirm zu sehen sein?)\nMoodboard für Kontexteindruck → ÖA: Foto?",
+        "exact_sentence": "Bamberg gestalten) Koordination mit Amt 13 zur Veröffentlichung auch auf Stadt-Kanälen\nBezug zum Standort: In der Umfrage die drei Beispielszenarien beschreiben (Foto vom jeweiligen Standort + Feature-Abfrage (offen, was sollte auf all diesen Displays zu sehen sein und was soll nur genau auf diesem Bildschirm zu sehen sein?)\nMoodboard für Kontexteindruck → ÖA: Foto?"
+      },
+      "designer": {
+        "design_suggestion": "Add bite-sized gamified interactions (quiz tiles) that reward discovery and repeat visits."
+      },
+      "planner": {
+        "planning_suggestion": "Define success metrics for engagement and pilot a gamified module at one location."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "ggf bamberg",
+    "roles": {
+      "citizen": {
+        "original_sentence": "ggf.",
+        "exact_sentence": "ggf."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "layouts zeitplan",
+    "roles": {
+      "citizen": {
+        "original_sentence": "UX- und Bürgerbeteiligungs-Fahrplan für das Projekt „BamBoards“\nErster Schritt: Kontextuelle Interviews an den Standorten (mit echten Nutzern/Besuchern) \nZeitplan: Abgeschlossen bis Ende Mai 2024\nMusikschule → erledigt \nVHS (1.",
+        "exact_sentence": "UX- und Bürgerbeteiligungs-Fahrplan für das Projekt „BamBoards“\nErster Schritt: Kontextuelle Interviews an den Standorten (mit echten Nutzern/Besuchern) \nZeitplan: Abgeschlossen bis Ende Mai 2024\nMusikschule → erledigt \nVHS (1."
+      },
+      "designer": {
+        "design_suggestion": "Show a mini-map beside departure times highlighting the nearest stop and walking ETA; include a 'save route' QR code for mobile directions."
+      },
+      "planner": {
+        "planning_suggestion": "Partner with the local transit authority to validate accessibility metadata and run a pilot with one route to gauge accuracy before scaling."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "stadt",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Bamberg gestalten) Koordination mit Amt 13 zur Veröffentlichung auch auf Stadt-Kanälen\nBezug zum Standort: In der Umfrage die drei Beispielszenarien beschreiben (Foto vom jeweiligen Standort + Feature-Abfrage (offen, was sollte auf all diesen Displays zu sehen sein und was soll nur genau auf diesem Bildschirm zu sehen sein?)\nMoodboard für Kontexteindruck → ÖA: Foto?",
+        "exact_sentence": "Bamberg gestalten) Koordination mit Amt 13 zur Veröffentlichung auch auf Stadt-Kanälen\nBezug zum Standort: In der Umfrage die drei Beispielszenarien beschreiben (Foto vom jeweiligen Standort + Feature-Abfrage (offen, was sollte auf all diesen Displays zu sehen sein und was soll nur genau auf diesem Bildschirm zu sehen sein?)\nMoodboard für Kontexteindruck → ÖA: Foto?"
+      },
+      "designer": {
+        "design_suggestion": "Add bite-sized gamified interactions (quiz tiles) that reward discovery and repeat visits."
+      },
+      "planner": {
+        "planning_suggestion": "Define success metrics for engagement and pilot a gamified module at one location."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "online umfrage",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Features abfragen und priorisieren lassen\nZweiter Schritt: Große Online-Umfrage \nZeitplan: Veröffentlichung Ende November",
+        "exact_sentence": "Features abfragen und priorisieren lassen\nZweiter Schritt: Große Online-Umfrage \nZeitplan: Veröffentlichung Ende November"
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Add a simple CTA card for participation with an embedded short survey or signup."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Run short localized workshops and collect structured feedback to prioritize features."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "vhs runde",
+    "roles": {
+      "citizen": {
+        "original_sentence": "UX- und Bürgerbeteiligungs-Fahrplan für das Projekt „BamBoards“\nErster Schritt: Kontextuelle Interviews an den Standorten (mit echten Nutzern/Besuchern) \nZeitplan: Abgeschlossen bis Ende Mai 2024\nMusikschule → erledigt \nVHS (1.",
+        "exact_sentence": "UX- und Bürgerbeteiligungs-Fahrplan für das Projekt „BamBoards“\nErster Schritt: Kontextuelle Interviews an den Standorten (mit echten Nutzern/Besuchern) \nZeitplan: Abgeschlossen bis Ende Mai 2024\nMusikschule → erledigt \nVHS (1."
+      },
+      "designer": {
+        "design_suggestion": "Combine next-departure cards with quick filters for 'all lines', 'accessible services', and 'real-time delays', plus vibration alerts for nearby stops."
+      },
+      "planner": {
+        "planning_suggestion": "Integrate GTFS-rt feeds and add a caching layer to handle transient API outages; set SLA and monitoring for feed freshness."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "workshop mit",
+    "roles": {
+      "citizen": {
+        "original_sentence": "nochmal kurze UX-Beteiligung (Guerilla-Interviews/Tests vor Ort zu den jeweiligen Wireframes) oder kleiner Workshop mit Testpersonen!",
+        "exact_sentence": "nochmal kurze UX-Beteiligung (Guerilla-Interviews/Tests vor Ort zu den jeweiligen Wireframes) oder kleiner Workshop mit Testpersonen!"
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Add a simple CTA card for participation with an embedded short survey or signup."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Run short localized workshops and collect structured feedback to prioritize features."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "weiterentwicklung 1x",
+    "roles": {
+      "citizen": {
+        "original_sentence": "1x Weiterentwicklung",
+        "exact_sentence": "1x Weiterentwicklung"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "amt 13",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Bamberg gestalten) Koordination mit Amt 13 zur Veröffentlichung auch auf Stadt-Kanälen\nBezug zum Standort: In der Umfrage die drei Beispielszenarien beschreiben (Foto vom jeweiligen Standort + Feature-Abfrage (offen, was sollte auf all diesen Displays zu sehen sein und was soll nur genau auf diesem Bildschirm zu sehen sein?)\nMoodboard für Kontexteindruck → ÖA: Foto?",
+        "exact_sentence": "Bamberg gestalten) Koordination mit Amt 13 zur Veröffentlichung auch auf Stadt-Kanälen\nBezug zum Standort: In der Umfrage die drei Beispielszenarien beschreiben (Foto vom jeweiligen Standort + Feature-Abfrage (offen, was sollte auf all diesen Displays zu sehen sein und was soll nur genau auf diesem Bildschirm zu sehen sein?)\nMoodboard für Kontexteindruck → ÖA: Foto?"
+      },
+      "designer": {
+        "design_suggestion": "Add bite-sized gamified interactions (quiz tiles) that reward discovery and repeat visits."
+      },
+      "planner": {
+        "planning_suggestion": "Define success metrics for engagement and pilot a gamified module at one location."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "schritt",
+    "roles": {
+      "citizen": {
+        "original_sentence": "UX- und Bürgerbeteiligungs-Fahrplan für das Projekt „BamBoards“\nErster Schritt: Kontextuelle Interviews an den Standorten (mit echten Nutzern/Besuchern) \nZeitplan: Abgeschlossen bis Ende Mai 2024\nMusikschule → erledigt \nVHS (1.",
+        "exact_sentence": "UX- und Bürgerbeteiligungs-Fahrplan für das Projekt „BamBoards“\nErster Schritt: Kontextuelle Interviews an den Standorten (mit echten Nutzern/Besuchern) \nZeitplan: Abgeschlossen bis Ende Mai 2024\nMusikschule → erledigt \nVHS (1."
+      },
+      "designer": {
+        "design_suggestion": "Surface a live departures carousel that users can swipe through, show platform, delay color-coding and an action to 'Route to station' opening navigation on the phone."
+      },
+      "planner": {
+        "planning_suggestion": "Define data ownership and refresh cadence; include fallback static schedules and manual override for planned disruptions."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "pressemitteilung social",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Pressemitteilung",
+        "exact_sentence": "Pressemitteilung"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "fokusgruppeninterview menschen",
+    "roles": {
+      "citizen": {
+        "original_sentence": "zweite Runde) \nKonzerthalle/Geyerswörth (Idee)\nFokusgruppeninterview Menschen mit Einschränkungen → erledigt",
+        "exact_sentence": "zweite Runde) \nKonzerthalle/Geyerswörth (Idee)\nFokusgruppeninterview Menschen mit Einschränkungen → erledigt"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "diesen displays",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Bamberg gestalten) Koordination mit Amt 13 zur Veröffentlichung auch auf Stadt-Kanälen\nBezug zum Standort: In der Umfrage die drei Beispielszenarien beschreiben (Foto vom jeweiligen Standort + Feature-Abfrage (offen, was sollte auf all diesen Displays zu sehen sein und was soll nur genau auf diesem Bildschirm zu sehen sein?)\nMoodboard für Kontexteindruck → ÖA: Foto?",
+        "exact_sentence": "Bamberg gestalten) Koordination mit Amt 13 zur Veröffentlichung auch auf Stadt-Kanälen\nBezug zum Standort: In der Umfrage die drei Beispielszenarien beschreiben (Foto vom jeweiligen Standort + Feature-Abfrage (offen, was sollte auf all diesen Displays zu sehen sein und was soll nur genau auf diesem Bildschirm zu sehen sein?)\nMoodboard für Kontexteindruck → ÖA: Foto?"
+      },
+      "designer": {
+        "design_suggestion": "Add bite-sized gamified interactions (quiz tiles) that reward discovery and repeat visits."
+      },
+      "planner": {
+        "planning_suggestion": "Define success metrics for engagement and pilot a gamified module at one location."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "sein moodboard",
+    "roles": {
+      "citizen": {
+        "original_sentence": "was sollte auf all diesen Displays zu sehen sein und was soll nur genau auf diesem Bildschirm zu sehen sein?)\nMoodboard für Kontexteindruck → ÖA: Foto?",
+        "exact_sentence": "was sollte auf all diesen Displays zu sehen sein und was soll nur genau auf diesem Bildschirm zu sehen sein?)\nMoodboard für Kontexteindruck → ÖA: Foto?"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "interviews tests",
+    "roles": {
+      "citizen": {
+        "original_sentence": "UX- und Bürgerbeteiligungs-Fahrplan für das Projekt „BamBoards“\nErster Schritt: Kontextuelle Interviews an den Standorten (mit echten Nutzern/Besuchern) \nZeitplan: Abgeschlossen bis Ende Mai 2024\nMusikschule → erledigt \nVHS (1.",
+        "exact_sentence": "UX- und Bürgerbeteiligungs-Fahrplan für das Projekt „BamBoards“\nErster Schritt: Kontextuelle Interviews an den Standorten (mit echten Nutzern/Besuchern) \nZeitplan: Abgeschlossen bis Ende Mai 2024\nMusikschule → erledigt \nVHS (1."
+      },
+      "designer": {
+        "design_suggestion": "Surface a live departures carousel that users can swipe through, show platform, delay color-coding and an action to 'Route to station' opening navigation on the phone."
+      },
+      "planner": {
+        "planning_suggestion": "Partner with the local transit authority to validate accessibility metadata and run a pilot with one route to gauge accuracy before scaling."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "april",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Für die allgemeinen und standortspezifischen Features Priorisierung vornehmen lassen: Unsere Widget-Liste zeigen, aus der die Menschen die für sie wichtigsten >=3 auswählen sollen (nur für den jeweiligen Standort) \nEventuell: Zuletzt nochmal die ausgewählte Widget-Liste in Prioritätenreihenfolge bringen \nOffene Frage nach weiteren Anmerkungen, Wünschen, Ideen \nFragen, ob Aufnahme in Testpersonenpool für erste Usertests gewünscht\nDritter Schritt: Ausgestaltung von Prototyp/Mockup der entsprechenden Widgets in verschiedenen Formaten und Layouts\nZeitplan: Start Anfang April 2025, Ende: Januar\nFeedback von Institutionen einholen\nPaper Prototyping → Widget-Katalog erstellen (Fokus auf grundlegende Struktur der Widgets, sodass standortübergreifend verwendbar; z.B.",
+        "exact_sentence": "Für die allgemeinen und standortspezifischen Features Priorisierung vornehmen lassen: Unsere Widget-Liste zeigen, aus der die Menschen die für sie wichtigsten >=3 auswählen sollen (nur für den jeweiligen Standort) \nEventuell: Zuletzt nochmal die ausgewählte Widget-Liste in Prioritätenreihenfolge bringen \nOffene Frage nach weiteren Anmerkungen, Wünschen, Ideen \nFragen, ob Aufnahme in Testpersonenpool für erste Usertests gewünscht\nDritter Schritt: Ausgestaltung von Prototyp/Mockup der entsprechenden Widgets in verschiedenen Formaten und Layouts\nZeitplan: Start Anfang April 2025, Ende: Januar\nFeedback von Institutionen einholen\nPaper Prototyping → Widget-Katalog erstellen (Fokus auf grundlegende Struktur der Widgets, sodass standortübergreifend verwendbar; z.B."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "features priorisierung",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Für die allgemeinen und standortspezifischen Features Priorisierung vornehmen lassen: Unsere Widget-Liste zeigen, aus der die Menschen die für sie wichtigsten >=3 auswählen sollen (nur für den jeweiligen Standort) \nEventuell: Zuletzt nochmal die ausgewählte Widget-Liste in Prioritätenreihenfolge bringen \nOffene Frage nach weiteren Anmerkungen, Wünschen, Ideen \nFragen, ob Aufnahme in Testpersonenpool für erste Usertests gewünscht\nDritter Schritt: Ausgestaltung von Prototyp/Mockup der entsprechenden Widgets in verschiedenen Formaten und Layouts\nZeitplan: Start Anfang April 2025, Ende: Januar\nFeedback von Institutionen einholen\nPaper Prototyping → Widget-Katalog erstellen (Fokus auf grundlegende Struktur der Widgets, sodass standortübergreifend verwendbar; z.B.",
+        "exact_sentence": "Für die allgemeinen und standortspezifischen Features Priorisierung vornehmen lassen: Unsere Widget-Liste zeigen, aus der die Menschen die für sie wichtigsten >=3 auswählen sollen (nur für den jeweiligen Standort) \nEventuell: Zuletzt nochmal die ausgewählte Widget-Liste in Prioritätenreihenfolge bringen \nOffene Frage nach weiteren Anmerkungen, Wünschen, Ideen \nFragen, ob Aufnahme in Testpersonenpool für erste Usertests gewünscht\nDritter Schritt: Ausgestaltung von Prototyp/Mockup der entsprechenden Widgets in verschiedenen Formaten und Layouts\nZeitplan: Start Anfang April 2025, Ende: Januar\nFeedback von Institutionen einholen\nPaper Prototyping → Widget-Katalog erstellen (Fokus auf grundlegende Struktur der Widgets, sodass standortübergreifend verwendbar; z.B."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "verwendbar widget",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Für die allgemeinen und standortspezifischen Features Priorisierung vornehmen lassen: Unsere Widget-Liste zeigen",
+        "exact_sentence": "Für die allgemeinen und standortspezifischen Features Priorisierung vornehmen lassen: Unsere Widget-Liste zeigen"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx"
+  },
+  {
+    "day": "",
+    "keyword": "widget wettervorschau",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Mögliche Widgets:\nNews-Widget:\nNachrichten/News/Blog Einbindung z.B.",
+        "exact_sentence": "Mögliche Widgets:\nNews-Widget:\nNachrichten/News/Blog Einbindung z.B."
+      },
+      "designer": {
+        "design_suggestion": "Provide a compact weather + air quality tile with short-term forecasts and alerts."
+      },
+      "planner": {
+        "planning_suggestion": "Subscribe to a reliable weather/air-quality API and cache responses to limit calls."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "backend möglichkeit",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Filter/Auswahlmöglichkeiten für verschiedene Nachrichtenquellen (Wechsel der Inhalte bei gleicher Struktur)\nVarianten: \nKurze Vorschau (Bild + Überschrift",
+        "exact_sentence": "Filter/Auswahlmöglichkeiten für verschiedene Nachrichtenquellen (Wechsel der Inhalte bei gleicher Struktur)\nVarianten: \nKurze Vorschau (Bild + Überschrift"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "nachrichten news",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Mögliche Widgets:\nNews-Widget:\nNachrichten/News/Blog Einbindung z.B.",
+        "exact_sentence": "Mögliche Widgets:\nNews-Widget:\nNachrichten/News/Blog Einbindung z.B."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "smartphone varianten",
+    "roles": {
+      "citizen": {
+        "original_sentence": "QR-Code zur Ansicht auf Smartphone\nGgf.",
+        "exact_sentence": "QR-Code zur Ansicht auf Smartphone\nGgf."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "tage struktur",
+    "roles": {
+      "citizen": {
+        "original_sentence": "per RSS-Feed\nStruktur und Inhalt: \nBild",
+        "exact_sentence": "per RSS-Feed\nStruktur und Inhalt: \nBild"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "bildunterschrift h1",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Bildunterschrift",
+        "exact_sentence": "Bildunterschrift"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "und luftqualitäts",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Wetter- und Luftqualitäts-Widget:\nWettervorschau, Einstellbar Stunden/Tage\nStruktur und Inhalt: \nKacheln für Symbol/Bild + Temperatur bzw.",
+        "exact_sentence": "Wetter- und Luftqualitäts-Widget:\nWettervorschau, Einstellbar Stunden/Tage\nStruktur und Inhalt: \nKacheln für Symbol/Bild + Temperatur bzw."
+      },
+      "designer": {
+        "design_suggestion": "Design Suggestion: Provide a compact weather + air quality tile with short-term forecasts and alerts."
+      },
+      "planner": {
+        "planning_suggestion": "Planning Suggestion: Subscribe to a reliable weather/air-quality API and cache responses to limit calls."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "visualisierungen balkendiagramm",
+    "roles": {
+      "citizen": {
+        "original_sentence": "verschiedene Visualisierungen (z.B.",
+        "exact_sentence": "verschiedene Visualisierungen (z.B."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "integriertem browser",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Webeinbindungs-Widget:\nWebseiten einbinden mit integriertem Browser und Whitelisting",
+        "exact_sentence": "Webeinbindungs-Widget:\nWebseiten einbinden mit integriertem Browser und Whitelisting"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "rss",
+    "roles": {
+      "citizen": {
+        "original_sentence": "per RSS-Feed\nStruktur und Inhalt: \nBild, Bildunterschrift, H1, H2, Text, QR-Code zur Ansicht auf Smartphone\nGgf.",
+        "exact_sentence": "per RSS-Feed\nStruktur und Inhalt: \nBild, Bildunterschrift, H1, H2, Text, QR-Code zur Ansicht auf Smartphone\nGgf."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "skizzen sensor",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Vorschau (Einspielen der Inhalte über Schnittstellen)\nSkizzen:",
+        "exact_sentence": "Vorschau (Einspielen der Inhalte über Schnittstellen)\nSkizzen:"
+      },
+      "designer": {
+        "design_suggestion": "Add bite-sized gamified interactions (quiz tiles) that reward discovery and repeat visits."
+      },
+      "planner": {
+        "planning_suggestion": "Define success metrics for engagement and pilot a gamified module at one location."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "qr codes",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Untertitel und Beschreibung\nWeiterleitung zur Umfrage → QR Codes?",
+        "exact_sentence": "Untertitel und Beschreibung\nWeiterleitung zur Umfrage → QR Codes?"
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "unterwegs",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Bamboard-Zielgruppe ist zu Fuß unterwegs\nParkplatz-Widget\nZeigt freie Parkplätze in der Umgebung an, inklusive Parkgebühren und Öffnungszeiten.",
+        "exact_sentence": "Bamboard-Zielgruppe ist zu Fuß unterwegs\nParkplatz-Widget\nZeigt freie Parkplätze in der Umgebung an, inklusive Parkgebühren und Öffnungszeiten."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "vorschau",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Filter/Auswahlmöglichkeiten für verschiedene Nachrichtenquellen (Wechsel der Inhalte bei gleicher Struktur)\nVarianten: \nKurze Vorschau (Bild + Überschrift, U-Überschrift, 1.",
+        "exact_sentence": "Filter/Auswahlmöglichkeiten für verschiedene Nachrichtenquellen (Wechsel der Inhalte bei gleicher Struktur)\nVarianten: \nKurze Vorschau (Bild + Überschrift, U-Überschrift, 1."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "vertikal feed",
+    "roles": {
+      "citizen": {
+        "original_sentence": "per RSS-Feed\nStruktur und Inhalt: \nBild",
+        "exact_sentence": "per RSS-Feed\nStruktur und Inhalt: \nBild"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "filter auswahlmöglichkeiten",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Filter/Auswahlmöglichkeiten für verschiedene Nachrichtenquellen (Wechsel der Inhalte bei gleicher Struktur)\nVarianten: \nKurze Vorschau (Bild + Überschrift",
+        "exact_sentence": "Filter/Auswahlmöglichkeiten für verschiedene Nachrichtenquellen (Wechsel der Inhalte bei gleicher Struktur)\nVarianten: \nKurze Vorschau (Bild + Überschrift"
+      },
+      "designer": {
+        "design_suggestion": "Provide faceted filters inline with results and an 'I want to...' quick-actions section for common intentions."
+      },
+      "planner": {
+        "planning_suggestion": "Measure top queries and iteratively add suggested intents to the quick-actions."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "navigation",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Variante mit Karte (direkt vom ausgewählten Punkt aus die Navigation starten)\nSkizzen:",
+        "exact_sentence": "Variante mit Karte (direkt vom ausgewählten Punkt aus die Navigation starten)\nSkizzen:"
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Create an editorial workflow for curating these entries, assign owners and schedule weekly freshness checks."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "grundlegende infos",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Umfrage-Widget:\nLimesurvey \nWeiterleitung auf Bamberg gestalten\nStruktur und Inhalt: \nGrundlegende Infos (strukturell wie News-Beitrag, mit Bild, Titel, ggf.",
+        "exact_sentence": "Umfrage-Widget:\nLimesurvey \nWeiterleitung auf Bamberg gestalten\nStruktur und Inhalt: \nGrundlegende Infos (strukturell wie News-Beitrag, mit Bild, Titel, ggf."
+      },
+      "designer": {
+        "design_suggestion": "Highlight the item with a large visual, a one-line summary, and a primary CTA (Directions / Call / Download) with a complementary secondary action."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "instagram quiz",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Gamification-Widget-Ideen:\nStadtquiz\nAR-Stadtrally → QR-Code-WL?",
+        "exact_sentence": "Gamification-Widget-Ideen:\nStadtquiz\nAR-Stadtrally → QR-Code-WL?"
+      },
+      "designer": {
+        "design_suggestion": "Add bite-sized gamified interactions (quiz tiles) that reward discovery and repeat visits."
+      },
+      "planner": {
+        "planning_suggestion": "Define success metrics for engagement and pilot a gamified module at one location."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  },
+  {
+    "day": "",
+    "keyword": "raster horizontal",
+    "roles": {
+      "citizen": {
+        "original_sentence": "Luftqualitätsindex, Uhrzeit/Datum\nVarianten: \nKachel-Raster horizontal oder vertikal \nggf.",
+        "exact_sentence": "Luftqualitätsindex, Uhrzeit/Datum\nVarianten: \nKachel-Raster horizontal oder vertikal \nggf."
+      },
+      "designer": {
+        "design_suggestion": "Add contextual micro-interactions: a quick share QR, a 'more info' expand and a feedback heart/thumbs to gauge interest."
+      },
+      "planner": {
+        "planning_suggestion": "Instrument clicks and QR scans to track which cards drive value and use that to prioritize content."
+      }
+    },
+    "source": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx"
+  }
+]
