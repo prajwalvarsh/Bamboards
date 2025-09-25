@@ -1,0 +1,554 @@
+{
+  "summary": {
+    "files_processed": 6
+  },
+  "results": [
+    {
+      "filename": "Evaluation BamBoard survey.docx",
+      "filepath": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Evaluation BamBoard survey.docx",
+      "keywords": [
+        {
+          "keyword": "veranstaltungen filter",
+          "score": 0.5064
+        },
+        {
+          "keyword": "taxi kulturelle",
+          "score": 0.3437
+        },
+        {
+          "keyword": "standortanzeige sehenswürdigkeiten",
+          "score": 0.3401
+        },
+        {
+          "keyword": "tourismus information",
+          "score": 0.3135
+        },
+        {
+          "keyword": "info bahnhof",
+          "score": 0.2508
+        },
+        {
+          "keyword": "straßensperrungen wetter",
+          "score": 0.2447
+        },
+        {
+          "keyword": "neuerscheinungen buchempfehlungen",
+          "score": 0.2189
+        },
+        {
+          "keyword": "ranking was",
+          "score": 0.1966
+        },
+        {
+          "keyword": "unterhaltsames",
+          "score": 0.1804
+        },
+        {
+          "keyword": "barrierefreiheit",
+          "score": 0.1743
+        },
+        {
+          "keyword": "weiterführende gamification",
+          "score": 0.1525
+        },
+        {
+          "keyword": "priorisiert umgesetzt",
+          "score": 0.1514
+        },
+        {
+          "keyword": "maxplatz rad",
+          "score": 0.1405
+        },
+        {
+          "keyword": "qr code",
+          "score": 0.1273
+        },
+        {
+          "keyword": "umgebung bin",
+          "score": 0.1134
+        },
+        {
+          "keyword": "entwicklungsphase interaktive",
+          "score": 0.0979
+        },
+        {
+          "keyword": "sport theater",
+          "score": 0.0973
+        },
+        {
+          "keyword": "boards für",
+          "score": 0.0824
+        },
+        {
+          "keyword": "tagesverlauf öpnv",
+          "score": 0.0758
+        },
+        {
+          "keyword": "feedback integration",
+          "score": 0.0382
+        }
+      ],
+      "example_sentences": [
+        "“\n„Die Tourismus Information kann individuell Touren, zur Besichtigung veranschaulichen, wo die Sehenswürdigkeiten mit Verpflegung und Bildung verknüpft sind, und z"
+      ]
+    },
+    {
+      "filename": "User Interviews VHS-filled.docx",
+      "filepath": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\User Interviews VHS-filled.docx",
+      "keywords": [
+        {
+          "keyword": "vhs oder",
+          "score": 0.371
+        },
+        {
+          "keyword": "kurses p4",
+          "score": 0.3606
+        },
+        {
+          "keyword": "veranstaltungen p5",
+          "score": 0.308
+        },
+        {
+          "keyword": "raumänderungen kursmaterialien",
+          "score": 0.2973
+        },
+        {
+          "keyword": "60 musikvideos",
+          "score": 0.2495
+        },
+        {
+          "keyword": "infos enthalten",
+          "score": 0.2296
+        },
+        {
+          "keyword": "25 ja",
+          "score": 0.2149
+        },
+        {
+          "keyword": "pro woche",
+          "score": 0.212
+        },
+        {
+          "keyword": "weitere möglichkeiten",
+          "score": 0.2008
+        },
+        {
+          "keyword": "besorgungen in",
+          "score": 0.1939
+        },
+        {
+          "keyword": "65 was",
+          "score": 0.1907
+        },
+        {
+          "keyword": "semester zum",
+          "score": 0.1867
+        },
+        {
+          "keyword": "per vgn",
+          "score": 0.1782
+        },
+        {
+          "keyword": "geräten benötigen",
+          "score": 0.1501
+        },
+        {
+          "keyword": "stadtbibliothek wichtiger",
+          "score": 0.1484
+        },
+        {
+          "keyword": "webseite 1x",
+          "score": 0.1476
+        },
+        {
+          "keyword": "keine pause",
+          "score": 0.1351
+        },
+        {
+          "keyword": "was würden",
+          "score": 0.1179
+        },
+        {
+          "keyword": "ggf nachrichten",
+          "score": 0.1044
+        },
+        {
+          "keyword": "hat man",
+          "score": -0.0163
+        }
+      ],
+      "example_sentences": [
+        ") 1x pro Woche, immer in den gleichen Kurs\nP4: (58 J",
+        ") Fahrrad\n\n\n\nBleiben Sie nach Ihrem Kurs oft länger in der VHS oder in der Nähe",
+        ") Müsste helfen, Anliegen zu klären oder wichtige Infos enthalten (welche das sein könnten, weiß ich gerade nicht)\nP2: (65-65 J",
+        ") Müsste interessante Infos enthalten, z"
+      ]
+    },
+    {
+      "filename": "UX-Doku BamboardV2.docx",
+      "filepath": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Doku BamboardV2.docx",
+      "keywords": [
+        {
+          "keyword": "musikschule nutzungskontextbeschreibung",
+          "score": 0.5867
+        },
+        {
+          "keyword": "aufgabenmodell aufgabe",
+          "score": 0.4564
+        },
+        {
+          "keyword": "beschreibung einer",
+          "score": 0.3103
+        },
+        {
+          "keyword": "am bamboard",
+          "score": 0.291
+        },
+        {
+          "keyword": "gemütliches beisammensein",
+          "score": 0.2825
+        },
+        {
+          "keyword": "code elternteil",
+          "score": 0.2066
+        },
+        {
+          "keyword": "zu erledigen",
+          "score": 0.1859
+        },
+        {
+          "keyword": "maps sekretariat",
+          "score": 0.1812
+        },
+        {
+          "keyword": "bekommt pdf",
+          "score": 0.1807
+        },
+        {
+          "keyword": "backend ggf",
+          "score": 0.1782
+        },
+        {
+          "keyword": "zwischen aktivitäten",
+          "score": 0.1572
+        },
+        {
+          "keyword": "verschwindet automatisch",
+          "score": 0.1367
+        },
+        {
+          "keyword": "richtigen kursraum",
+          "score": 0.1277
+        },
+        {
+          "keyword": "quantitativ standort",
+          "score": 0.1166
+        },
+        {
+          "keyword": "zertifizierungsprüfung in",
+          "score": 0.1111
+        },
+        {
+          "keyword": "smartphone ein",
+          "score": 0.1009
+        },
+        {
+          "keyword": "vhs ablegen",
+          "score": 0.0941
+        },
+        {
+          "keyword": "per",
+          "score": 0.0613
+        },
+        {
+          "keyword": "migrationshintergrund",
+          "score": 0.0341
+        },
+        {
+          "keyword": "schnell",
+          "score": 0.0152
+        }
+      ],
+      "example_sentences": [
+        "Aufgabenmodell: Eine Beschreibung einer Aufgabe, die aus dem Grund für das Beginnen der Aufgabe, dem Ziel, das sie unterstützt, und den Teilaufgaben besteht, die ausgeführt werden müssen, um die Aufgabe zu erledigen",
+        "Elternteil verbringt die 30 Minuten Unterrichtszeit im Aufenthaltsraum und schaut am Bamboard Veranstaltungen und Musikschultermine an und trägt interessante Termine ins eigene Smartphone ein",
+        "Es gibt eine Vielzahl an analogen Aushängemöglichkeiten (2x Aufenthaltsraum EG, 2x Gang EG, 1x Treppenhaus, 1x pro Etage) \nRaumbelegungsplan wird als Exceltabelle ausgedruckt (große Tabelle, kleingedruckt, übersicht geht schnell verloren)\n\nNutzungsanforderungen \nAnforderungen an das System aus Nutzerperspektive\n\nQualitativ: \nDer Nutzer muss am Bamboard kurzfristige Änderungen, die ihn betreffen, schnell erkennen    können",
+        "Der Nutzer muss am Bamboard mehrere Sprachen auswählen können",
+        "Der Nutzer muss am Bamboard den Veranstaltungskalender sehen und zwischen Wochen- und Monatsansicht wechseln sowie die Veranstaltungen der Musikschule filtern können",
+        "Schritte: Bücher lesen, ausgehängte Plakate betrachten, Besuch der Fotoausstellung, Interaktion mit Teilnehmenden \nAufgabe: Vernetzung mit anderen Teilnehmern nach dem Kurs\nZiel: Gemütliches Beisammensein nach dem Kurs \nSchritte: Auf Kneipe/Café einigen und dort hin gehen\nIst-Szenarien (eine erzählende, textuelle Beschreibung, wie Benutzer*innen derzeit eine oder mehrere Aufgaben im aktuellen Nutzungskontext erledigen)\nDie meisten Menschen, die die VHS besuchen, kommen eher kurz vor knapp (ca"
+      ]
+    },
+    {
+      "filename": "UX-Evaluation BamBoard.docx",
+      "filepath": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Evaluation BamBoard.docx",
+      "keywords": [
+        {
+          "keyword": "evaluation bamboard",
+          "score": 0.5793
+        },
+        {
+          "keyword": "verschiedener evaluationsmaßnahmen",
+          "score": 0.4516
+        },
+        {
+          "keyword": "zusammenfassung usability",
+          "score": 0.448
+        },
+        {
+          "keyword": "weiterentwicklung aufzudecken",
+          "score": 0.3347
+        },
+        {
+          "keyword": "test ergaben",
+          "score": 0.2879
+        },
+        {
+          "keyword": "energieverbrauch ggf",
+          "score": 0.2648
+        },
+        {
+          "keyword": "cms geführt",
+          "score": 0.251
+        },
+        {
+          "keyword": "per rundbrief",
+          "score": 0.248
+        },
+        {
+          "keyword": "bewohnern",
+          "score": 0.2357
+        },
+        {
+          "keyword": "nützlichkeit für",
+          "score": 0.229
+        },
+        {
+          "keyword": "verbraucherprofil",
+          "score": 0.2024
+        },
+        {
+          "keyword": "senioren profitieren",
+          "score": 0.1894
+        },
+        {
+          "keyword": "haushaltsgegenständen infos",
+          "score": 0.1524
+        },
+        {
+          "keyword": "zwischen pdfs",
+          "score": 0.1501
+        },
+        {
+          "keyword": "baskidhall iso",
+          "score": 0.1103
+        },
+        {
+          "keyword": "interviews die",
+          "score": 0.0561
+        },
+        {
+          "keyword": "login logout",
+          "score": 0.0467
+        },
+        {
+          "keyword": "zur barrierefreiheit",
+          "score": 0.0447
+        },
+        {
+          "keyword": "engagementplattform",
+          "score": 0.01
+        },
+        {
+          "keyword": "2023",
+          "score": 0.0037
+        }
+      ],
+      "example_sentences": [
+        "Dieser Bericht fasst die Ergebnisse verschiedener Evaluationsmaßnahmen zusammen, die zur Bewertung des BamBoard-Projekts durchgeführt wurden",
+        "Außerdem werden Erkenntnisse aus Interviews, die in diesem Zusammenhang mit Bewohnern in Häusern mit einem installierten BamBoard sowie den Nutzern des zugehörigen CMS geführt wurden, dargelegt",
+        "Primärer Zweck der Evaluierung war, positive Aspekte, aber auch Verbesserungspotenziale für die Weiterentwicklung aufzudecken",
+        "Spiele sowie die Einbindung von relevanten Social Media-Beiträgen und anderen zielgruppengerechten Angeboten \nInhalt\n1 Die wichtigsten Punkte auf einen Blick:\t1\n2 Zusammenfassung Usability-Test\t3\n3 Feedback aus Nutzerinterviews zum BamBoard\t4\n4 Feedback zur Weiterentwicklung (BamBoard)\t6\n5 Feedback aus Nutzerinterviews (CMS)\t8\n5",
+        "2 Stadtbau GmbH\t10\n\n\nZusammenfassung Usability-Test\n\nDie drei wichtigsten Dinge, welche die Usability-Testteilnehmer positiv herausstellten, waren:\nÜbersichtlichkeit und „clean“ Design\nTeilnehmende nahmen das BamBoard als „clean“, nicht überladen oder überfrachtet wahr und lobten die Übersichtlichkeit\nGute Orientierung durch konsistenten Design-Rahmen\nDer konsistente Aufbau mit dem Menü auf der linken Seite, dem gleichbleibenden „Rahmen“ und der inhaltlichen Organisation eher in der Mitte wurde positiv genannt\nHausspezifische Informationen und Pläne, wie etwa zum „Bürgerhaus“\nTeilnehmenden gefielen die Infos zum Haus und zu den Angeboten vor Ort\nDie drei wichtigsten Probleme waren: \nAusblenden der Schaltflächen bei Nutzung der Zoom-Funktion\nDas Lupensymbol und die für die Vergrößerung zuständigen Schaltflächen verschwinden aus dem Sichtfeld und sind nur durch Bedienung der optisch weit entfernten Scroll-Regler wieder ins Bild zu bekommen, um die Vergrößerung bzw",
+        "Beim Usability-Test ergaben sich insgesamt sechs Probleme"
+      ]
+    },
+    {
+      "filename": "UX-Fahrplan_BamBoard.docx",
+      "filepath": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\UX-Fahrplan_BamBoard.docx",
+      "keywords": [
+        {
+          "keyword": "musikschule erledigt",
+          "score": 0.5046
+        },
+        {
+          "keyword": "zum standort",
+          "score": 0.3269
+        },
+        {
+          "keyword": "zur veröffentlichung",
+          "score": 0.2962
+        },
+        {
+          "keyword": "ggf bamberg",
+          "score": 0.279
+        },
+        {
+          "keyword": "layouts zeitplan",
+          "score": 0.2741
+        },
+        {
+          "keyword": "stadt",
+          "score": 0.2492
+        },
+        {
+          "keyword": "online umfrage",
+          "score": 0.248
+        },
+        {
+          "keyword": "vhs runde",
+          "score": 0.2259
+        },
+        {
+          "keyword": "workshop mit",
+          "score": 0.2164
+        },
+        {
+          "keyword": "weiterentwicklung 1x",
+          "score": 0.2154
+        },
+        {
+          "keyword": "amt 13",
+          "score": 0.2096
+        },
+        {
+          "keyword": "schritt",
+          "score": 0.2065
+        },
+        {
+          "keyword": "pressemitteilung social",
+          "score": 0.2034
+        },
+        {
+          "keyword": "fokusgruppeninterview menschen",
+          "score": 0.1896
+        },
+        {
+          "keyword": "diesen displays",
+          "score": 0.1776
+        },
+        {
+          "keyword": "sein moodboard",
+          "score": 0.1412
+        },
+        {
+          "keyword": "interviews tests",
+          "score": 0.1268
+        },
+        {
+          "keyword": "april",
+          "score": 0.0936
+        },
+        {
+          "keyword": "features priorisierung",
+          "score": 0.0872
+        },
+        {
+          "keyword": "verwendbar widget",
+          "score": 0.0723
+        }
+      ],
+      "example_sentences": [
+        "Bamberg gestalten) Koordination mit Amt 13 zur Veröffentlichung auch auf Stadt-Kanälen\nBezug zum Standort: In der Umfrage die drei Beispielszenarien beschreiben (Foto vom jeweiligen Standort + Feature-Abfrage (offen, was sollte auf all diesen Displays zu sehen sein und was soll nur genau auf diesem Bildschirm zu sehen sein"
+      ]
+    },
+    {
+      "filename": "Widget-Katalog.docx",
+      "filepath": "extracted\\Austauschordner_Studienarbeit_Urbaninteractiondesign\\Widget-Katalog.docx",
+      "keywords": [
+        {
+          "keyword": "widget wettervorschau",
+          "score": 0.5487
+        },
+        {
+          "keyword": "backend möglichkeit",
+          "score": 0.3823
+        },
+        {
+          "keyword": "nachrichten news",
+          "score": 0.3787
+        },
+        {
+          "keyword": "smartphone varianten",
+          "score": 0.3766
+        },
+        {
+          "keyword": "tage struktur",
+          "score": 0.3633
+        },
+        {
+          "keyword": "bildunterschrift h1",
+          "score": 0.3337
+        },
+        {
+          "keyword": "und luftqualitäts",
+          "score": 0.3301
+        },
+        {
+          "keyword": "visualisierungen balkendiagramm",
+          "score": 0.2949
+        },
+        {
+          "keyword": "integriertem browser",
+          "score": 0.2796
+        },
+        {
+          "keyword": "rss",
+          "score": 0.2787
+        },
+        {
+          "keyword": "skizzen sensor",
+          "score": 0.2464
+        },
+        {
+          "keyword": "qr codes",
+          "score": 0.2404
+        },
+        {
+          "keyword": "unterwegs",
+          "score": 0.2348
+        },
+        {
+          "keyword": "vorschau",
+          "score": 0.222
+        },
+        {
+          "keyword": "vertikal feed",
+          "score": 0.2172
+        },
+        {
+          "keyword": "filter auswahlmöglichkeiten",
+          "score": 0.2005
+        },
+        {
+          "keyword": "navigation",
+          "score": 0.1987
+        },
+        {
+          "keyword": "grundlegende infos",
+          "score": 0.1892
+        },
+        {
+          "keyword": "instagram quiz",
+          "score": 0.1707
+        },
+        {
+          "keyword": "raster horizontal",
+          "score": 0.0907
+        }
+      ],
+      "example_sentences": [
+        "Satz)\nVolle Nachricht horizontal/vertikal \nFeed zum vertikalen Scrollen\nKacheln/Feed zum horizontalen Scrollen\nBackend: Nur Auswahl der Variante, Vorschau (Einspielen der Inhalte über Schnittstellen)\nSkizzen:\n\n\n\n\n\n\n\n\n\n\n\n\n\nWetter- und Luftqualitäts-Widget:\nWettervorschau, Einstellbar Stunden/Tage\nStruktur und Inhalt: \nKacheln für Symbol/Bild + Temperatur bzw"
+      ]
+    }
+  ]
+}
